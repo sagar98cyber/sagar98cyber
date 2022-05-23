@@ -1,13 +1,13 @@
 # 💫About Me :
-🔭I'm currently pursuing masters from National Forensic Sciences University
-👯‍♂️I'm looking to collaborate on SECURITY OPERATIONS CENTER, Malware Analysis projects
-🤝🏽I'm willing to help with Malware Analysis and Incident Investigation
-🌱I'm currently learning Vulnerability Assessment and Pentration Testing
-📫Reach me at:
-	Mail: workcyspace@gmail.com
-	Twitter: __sagar_shah__
-	Instagram: __sagar_shah__
-	LinedIn: sagarshah021098
+🔭I'm currently pursuing masters from National Forensic Sciences University<br>
+👯‍♂️I'm looking to collaborate on SECURITY OPERATIONS CENTER, Malware Analysis projects<br>
+🤝🏽I'm willing to help with Malware Analysis and Incident Investigation<br>
+🌱I'm currently learning Vulnerability Assessment and Pentration Testing<br>
+📫Reach me at:<br>
+	Mail: workcyspace@gmail.com<br>
+	Twitter: _\_sagar_shah_\_<br>
+	Instagram: _\_sagar_shah_\_<br>
+	LinedIn: sagarshah021098<br>
 	
 	
 
