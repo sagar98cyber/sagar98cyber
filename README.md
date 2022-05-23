@@ -5,8 +5,8 @@
 🌱I'm currently learning Vulnerability Assessment and Pentration Testing<br>
 📫Reach me at:<br>
 	Mail: workcyspace@gmail.com<br>
-	Twitter: _\_sagar_shah_\_<br>
-	Instagram: _\_sagar_shah_\_<br>
+	Twitter: \_\_sagar_shah\_\_<br>
+	Instagram: \_\_sagar_shah\_\_<br>
 	LinedIn: sagarshah021098<br>
 	
 	
