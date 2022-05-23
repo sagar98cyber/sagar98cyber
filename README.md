@@ -1,6 +1,6 @@
 # 💫About Me :
 🔭I'm currently pursuing masters from National Forensic Sciences University<br>
-👯‍♂️I'm looking to collaborate on SECURITY OPERATIONS CENTER, Malware Analysis projects<br>
+👯‍♂️I'm looking to collaborate on SECURITY OPERATIONS CENTER, MALWARE ANALYSIS projects<br>
 🤝🏽I'm willing to help with Malware Analysis and Incident Investigation<br>
 🌱I'm currently learning Vulnerability Assessment and Pentration Testing<br>
 <!--📫Reach me at:<br>-->
