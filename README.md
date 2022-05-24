@@ -21,13 +21,13 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sagar98cyber&theme=nightowl&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sagar98cyber&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-
+<!--
 ## 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sagar98cyber&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=sagar98cyber&icon=9&color=1)](https://visitcount.itsvg.in)
-
+-->
 
 ## 🌐Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/__sagar_shah__#9592) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__sagar_shah__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sagarshah021098) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/sagarshah021098) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCW1l5OcGOiCAabXPRLK1rAw) <!-- .[![Dribbble](https://dribbble.com/__sagar_shah__)-->
