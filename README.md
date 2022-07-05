@@ -17,7 +17,8 @@
  ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)-->
 
 # 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=sagar98cyber&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true)<br/>
+<!--![](https://github-readme-stats.vercel.app/api?username=sagar98cyber&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true)-->
+![Sagar's GitHub stats](https://github-readme-stats.vercel.app/api?username=sagar98cyber&count_private=true&show_icons=true)<br/>
 <!--![](https://github-readme-streak-stats.herokuapp.com/?user=sagar98cyber&theme=nightowl&hide_border=true)-->
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sagar98cyber&theme=nightowl&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sagar98cyber&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
