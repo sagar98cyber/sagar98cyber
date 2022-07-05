@@ -19,7 +19,7 @@
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=sagar98cyber&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true)<br/>
 <!--![](https://github-readme-streak-stats.herokuapp.com/?user=sagar98cyber&theme=nightowl&hide_border=true)-->
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sagar98cyber&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)<br/>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sagar98cyber&theme=nightowl&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sagar98cyber&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 <!--
