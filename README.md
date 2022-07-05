@@ -18,7 +18,7 @@
 
 # 📊GitHub Stats :
 <!--![](https://github-readme-stats.vercel.app/api?username=sagar98cyber&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true)-->
-![Sagar's GitHub stats](https://github-readme-stats.vercel.app/api?username=sagar98cyber&count_private=true&show_icons=true&theme_name=nightowl)<br/>
+![Sagar's GitHub stats](https://github-readme-stats.vercel.app/api?username=sagar98cyber&count_private=true&show_icons=true&theme=nightowl)<br/>
 <!--![](https://github-readme-streak-stats.herokuapp.com/?user=sagar98cyber&theme=nightowl&hide_border=true)-->
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sagar98cyber&theme=nightowl&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sagar98cyber&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
