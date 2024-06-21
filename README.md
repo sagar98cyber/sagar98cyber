@@ -1,5 +1,6 @@
 # 💫About Me :
-🔭I'm looking to collaborate on SECURITY OPERATIONS CENTER, MALWARE ANALYSIS, SOAR Projects for INCIDENT RESPONSE based Playbook Development projects<br>
+👨🏻‍💻 I'm a Software Engineer with a touch of CYBER SECURITY.
+<!--🔭I'm looking to collaborate on SECURITY OPERATIONS CENTER, MALWARE ANALYSIS, SOAR Projects for INCIDENT RESPONSE based Playbook Development projects<br>
 🤝🏽I'm willing to help with Malware Analysis and Incident Investigation<br>
 🌱I'm currently learning Vulnerability Assessment and Pentration Testing<br>
 <!--📫Reach me at:<br>-->
